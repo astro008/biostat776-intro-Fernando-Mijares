@@ -2,10 +2,12 @@
 date: "2020-01-01"
 description: A description of the page
 menu: main
-title: About this website
+title: Introduction
 ---
 
-Hello! This is a personal blog created for PH140.776 Statistical Computing.
+This is a post created for PH140.776 - Project 0.
+
+## Hello!
 
 ##### My name is Fernando Mijares and I am a second year masters student in the department of epidemiology. 
 
