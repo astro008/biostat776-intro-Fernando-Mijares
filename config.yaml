@@ -43,6 +43,6 @@ menu:
       url: /links/
       weight: 3
     - name: Intro
-      url: /
+      url: /home/
       weight: 5
  
