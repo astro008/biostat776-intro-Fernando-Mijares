@@ -42,4 +42,7 @@ menu:
     - name: Weblinks
       url: /links/
       weight: 3
+    - name: Intro
+      url: /
+      weight: 5
  
