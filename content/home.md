@@ -15,9 +15,6 @@ description: Description for the page
 
 ##### My name is Fernando Mijares and I am a second year masters student in the department of epidemiology. 
 
-<img src="/./home_files/1b4dd7d8-0864-4a5f-be8f-d9a5240401ea.JPG" alt="My friends and I in La Paz, BCS, Mexico." width="600px" height="400px"/>
-My friends and I in La Paz, BCS, Mexico. 
-
 ---
 
 ## Background
